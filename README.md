@@ -184,13 +184,12 @@ $stmt->bind_param("ssssssss", $name, $email, $phone, $address, $location, $guest
 
 ## 📧 Contact Information
 
-**Location**: Ghaziabad, Delhi NCR - 12415
+**Location**: Ghaziabad, Delhi NCR - 201206
 
 **Phone**: 
-- +880-1517-089144
-- +111-2222-333333
+- 9506880176
 
-**Email**: manishkusingh35@gmail.com
+**Email**: mishraaman4512@gmail.com
 
 **Follow Us**:
 - LinkedIn
@@ -200,7 +199,7 @@ $stmt->bind_param("ssssssss", $name, $email, $phone, $address, $location, $guest
 
 ## 👨‍💻 Developer
 
-**Created by**: Mr. Manish Kumar Singh
+**Created by**: Mr. DIVYANSHU MISHRA
 
 ## 📝 License
 
